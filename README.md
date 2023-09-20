@@ -1,4 +1,4 @@
 # test-markdown
 repository to test markdown
 
-Testing - [Markdown Live Preview](https://markdownlivepreview.com/).
+Testing - [![This is an alt text.](/image/sample.png "This is a sample image.")](https://markdownlivepreview.com/)
